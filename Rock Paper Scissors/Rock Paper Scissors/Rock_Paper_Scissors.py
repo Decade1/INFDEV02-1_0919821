@@ -83,6 +83,6 @@ if p1 != p2:
     if p1 == 5 and p2 == 2:
         print "Paper disproves Spock! Player 2 wins!"
     if p1 == 5 and p2 == 1:
-        print "Spock smashes scissors!"
+        print "Spock smashes scissors! Player 1 wins!"
     if p1 == 1 and p2 == 5:
         print "Spock smashes scissors! Player 2 wins!"
